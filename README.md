@@ -35,7 +35,7 @@ See `notebooks/` for interactive demos and `src/` for runnable modules.
 
 The project also includes an interactive Power BI dashboard that visualizes key trends, patterns, and model predictions.
 
-**File:** [`Stock_Forecasting_Dashboard.pbix`](dashboards/Stock_Forecasting_Dashboard.pbix)
+**File:** [`Stock_Forecasting_Dashboard.pbix`](Dashboard/Stock_Forecasting_Dashboard.pbix)
 
 You can open it in Power BI Desktop to explore:
 - Stock price trends and moving averages  

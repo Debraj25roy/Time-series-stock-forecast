@@ -30,3 +30,16 @@ See `notebooks/` for interactive demos and `src/` for runnable modules.
 ## Notes
 - `data/raw/` and `models/` are gitignored by default.
 - If you want to skip LSTM, install without TensorFlow in `requirements.txt`.
+
+## 📊 Power BI Dashboard
+
+The project also includes an interactive Power BI dashboard that visualizes key trends, patterns, and model predictions.
+
+**File:** [`Stock_Forecasting_Dashboard.pbix`](dashboards/Stock_Forecasting_Dashboard.pbix)
+
+You can open it in Power BI Desktop to explore:
+- Stock price trends and moving averages  
+- Model forecast vs actual price comparison  
+- Prophet & LSTM forecast visualizations  
+- Interactive date filters and performance KPIs
+

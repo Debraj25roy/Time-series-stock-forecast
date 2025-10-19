@@ -43,3 +43,4 @@ You can open it in Power BI Desktop to explore:
 - Prophet & LSTM forecast visualizations  
 - Interactive date filters and performance KPIs
 
+![Power BI Dashboard Preview](dashboards/preview-dashboard.png)
